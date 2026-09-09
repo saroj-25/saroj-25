@@ -49,4 +49,6 @@ Every training repo here is meant to be *run*, not just read. Students submit
 real assignments into these repos and get real code review — training material
 that lives as working software, not slides.
 
-📫 sarosebhandari100@gmail.com
+📫 saroj.bhandari.cs@gmail.com
+
+Website: https://sarojbhandar100.com.np
